@@ -5,7 +5,6 @@ body,html {
 body {
   padding-top: 50px;
   background-color: rgba(0, 128, 0, 0.3);
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv6aDQ8bKGmsxALcwXHIe9cYWUUNK-68JxP31VObLbZDCWjCSthejbuCEHify8TuVZUBw&usqp=CAU);
 }
 
 #myBtn{ 
@@ -28,13 +27,9 @@ body {
 }
 
 .wide {
-  /* width:100%;
-  height:100%; */
   margin-left: 50px;
   height:calc(100% - 1px);
-  /* background-image:url('headerimg1.jpg'); */
   align-items: center;
-  background-size:cover;
 }
 
 .wide img {
@@ -55,17 +50,6 @@ body {
   left: 50%;
 }
 
-/* .logo {
-  color:#fff;
-  font-weight:800;
-  font-size:14pt;
-  padding:25px;
-  margin-left: 50px;
-  height: 1000px;
-  width: 1000px;
-  text-align:center;
-} */
-
 .line {
   padding-top:20px;
   white-space:no-wrap;
@@ -78,8 +62,6 @@ body {
 .orderblock{
   border-radius: 25px; 
   margin-top: 20px;
-  /* background-color: rgba(0, 128, 0, 0.3); */
-  /* border: 2px solid #73AD21;  */
   padding: 20px;
   background-size: cover ;
   margin-left: 5%;

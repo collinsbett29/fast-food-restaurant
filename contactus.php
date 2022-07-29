@@ -5,7 +5,7 @@ session_start();
 <html>
 
   <head>
-    <title> Contact | Le Cafe' </title>
+    <title> FAST FOOD | Contact </title>
   </head>
 
   <link rel="stylesheet" type = "text/css" href ="css/contactus.css">
@@ -49,7 +49,7 @@ session_start();
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.php">Le Cafe'</a>
+          <a class="navbar-brand" href="index.php">FAST FOOD</a>
         </div>
 
         <div class="collapse navbar-collapse " id="myNavbar">
@@ -125,7 +125,7 @@ else {
     <br>
 
     <div class="heading">
-     <strong>Want to contact <span class="edit"> Le Cafe' </span>?</strong>
+     <strong>Want to contact <span class="edit">  FAST FOOD </span>?</strong>
      <br>
     Here are a few ways to get in touch with us.
     </div>
@@ -137,8 +137,6 @@ else {
       <div class="form-area">
         <form method="post" action="">
         <br style="clear: both">
-          <h3 style="margin-bottom: 25px; text-align: center; font-size: 30px;"> Contact Form</h3>
-
           <div class="form-group">
             <input type="text" class="form-control" id="name" name="name" placeholder="Name" required autofocus="">
           </div>
